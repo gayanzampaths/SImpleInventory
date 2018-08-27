@@ -1,7 +1,7 @@
 # SImpleInventory
 
 root access `/`  
-Welcome to Simple Inventory!
+`Welcome to Simple Inventory!`
 
 access to items `GET` `/items`  
 
